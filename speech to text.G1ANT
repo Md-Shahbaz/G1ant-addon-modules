@@ -1,0 +1,9 @@
+addon watson version 4.103.0.0
+addon xlsx version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+♥apiKey = MYH9XLhx2TfjMAWu2HEnarCvdcloodFDa9SFj_yes9o0
+♥serverUri = https://gateway-lon.watsonplatform.net/speech-to-text/api
+watson.speechtotext ♥environment⟦USERPROFILE⟧\Desktop\sound1.wmv apikey ♥apiKey serveruri ♥serverUri
+dialog ♥result
