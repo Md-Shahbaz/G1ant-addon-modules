@@ -1,0 +1,12 @@
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+♥list = black❚blue❚red  
+dialog ‴List elements: ‴♥list
+dialog ‴Total elements: ‴♥list⟦count⟧
+dialog ‴Second element: ‴♥list⟦2⟧
+
+♥list⟦2⟧ = purple
+dialog ‴List elements: ‴♥list
+♥list⟦add⟧ = yellow
+dialog ♥list
