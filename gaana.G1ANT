@@ -1,0 +1,16 @@
+addon selenium version 4.104.0.0
+addon core version 4.107.0.0
+addon language version 4.106.1.0
+
+selenium.open chrome url gaana.com
+delay 10
+window ✱gaana✱ style maximize
+delay 20
+selenium.click search fill_path by class
+delay 8
+selenium.type chakdeindia search //*[@id="sb"] by xpath
+delay 5
+selenium.click search mCS_img_loaded by class
+delay 5
+selenium.presskey enter search s_title by class
+
